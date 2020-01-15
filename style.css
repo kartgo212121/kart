@@ -1,0 +1,29 @@
+body {
+background-image: url("weight.jpg");
+  background-color: black;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+}
+h1{
+    color:white;
+    text-decoration: underline overline;
+    font-family: "Arial Black", Gadget, sans-serif;
+}
+h2{
+    color:white;
+    font-family: "Arial Black", Gadget, sans-serif;
+    text-decoration: underline overline;
+}
+p{
+    color:white;
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 20px
+}
+img {
+
+    width:  400px;
+    height: 300px;
+    background-size: cover;
+}
